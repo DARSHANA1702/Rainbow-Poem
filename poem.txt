@@ -4,7 +4,7 @@ purple
 blue
 yellow
 red
-orange
+bright orange!!
 blue
 indigo
 green
