@@ -7,7 +7,7 @@ blue
 indigo
 green
 white sparkles
-and black
+and black!
 
 ========================
 [                      ]
