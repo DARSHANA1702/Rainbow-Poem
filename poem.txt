@@ -3,7 +3,6 @@ The Rainbow
 purple
 blue
 yellow
-red
 blue
 indigo
 green
