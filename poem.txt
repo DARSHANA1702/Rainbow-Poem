@@ -10,6 +10,7 @@ green
 pink
 dark green
 violet
+turquoise
 white sparkles
 and black!
 
