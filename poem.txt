@@ -6,8 +6,12 @@ yellow
 blue
 indigo
 green
+pink
+dark green
+violet
 white sparkles
 and black!
+
 
 ========================
 [                      ]
